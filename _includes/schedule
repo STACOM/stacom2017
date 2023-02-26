@@ -1,0 +1,29 @@
+| 8:50-9:00 | **Welcome & opening remarks** from the event organizers
+| 9:00-10:00 | Keynote lecture (Session Chair: Dr. Mihaela Pop)<br>Prof. Dr. Kaleem Siddiqi, McGill University<br>**From Mechanics to Electrical Conduction: Why are Heart Wall Myofibers Helicoidal?**
+| 10:00-10:30 | *Coffee break & poster viewing*
+| 10:30-11:45 | **Regular papers** (Session Chairs: Dr. Maxime Sermesant & Dr. Alistair Young)
+| 10:30-10:50 | Esther Puyol-Anton, Matthew Sinclair, Bernhard Gerber, Mihaela Silvia Amzulescu, Helene Langet, Mathieu De Craene, Paul Aljabar, Julia Schnabel, Paolo Piro, Andrew P. King: Multiview Machine Learning Using an Atlas of Cardiac Cycle Motion
+| 10:50-11:10 | Ilkay Oksuz, Rohan Dharmakumar, Sotirios A. Tsaftaris: Joint Myocardial Registration and Segmentation of Cardiac BOLD MRI
+| 11:10-11:30 | Cheng Jin, Heng Yu, Jianjiang Feng, Lei Wang, Jiwen Lu, Jie Zhou: Detection of Substances in the Left Atrial Appendage by Spatiotemporal Motion Analysis Based on 4D-CT
+| 11:30-11:45 | **Poster teasers** from regular papers
+| 11:45-13:45 | Lunch & Viewing and judging of posters (see list below)
+| 13:45-15:30 | **MM-WHS challenge** (Session Chairs: Dr. Xiahai Zhuang & Dr. Guang Yang)
+| 13:45-14:00 | MM-WHS presentation of data and challenge from the organizers
+| 14:00-14:15 | Christian Payer, Darko Stern, Horst Bischof, Martin Urschler: Multi-Label Whole Heart Segmentation Using CNNs and Anatomical Label Configurations
+| 14:15-14:30 | Mattias Heinrich, Julien Oster: MRI Whole Heart Segmentation using Discrete Nonlinear Registration and Fast Non-Local Fusion
+| 14:30-14:45 | Aliasghar Mortazi, Jeremy Burt, Ulas Bagci: Multi-View Deep Segmentation Networks for Cardiac Substructures from MRI and CT
+| 14:45-15:00 | Xin Yang, Cheng Bian, Lequan Yu, Dong Ni, Pheng-Ann Heng: Hybrid Loss Guided Convolutional Networks for Whole Heart Parsing
+| 15:00-15:15 | Chunliang Wang, Orjan Smedby: Automatic Whole Heart Segmentation Using Deep Learning and Shape Context
+| 15:15-15:30 | Gaetan Galisot, Thierry Brouard, Jean-Yves Ramel: Local probabilistic atlases and a posteriori correction for the segmentation of heart images
+| 15:30-16:00 | *Coffee break*
+| 16:00-18:00 | **ACDC challenge** (Session Chair: Dr. Olivier Bernard)
+| 16:00 - 16:15| Dr. Alain Lalande - Presentation of the ACDC dataset
+| 16:15 - 16:30| Fabian Isensee, Paul F. Jaeger, Peter M. Full, Ivo Wolf, Sandy Engelhardt, Klaus H. Maier-Hein; Automatic Cardiac Disease Assessment on cine-MRI via Time-Series Segmentation and Domain Specific Features
+| 16:30 - 16:45| Irem Cetin, Gerard Sanroma, Steffen E. Petersen, Sandy Napel, Oscar Camara, Miguel-Angel Gonzalez Ballester, Karim Lekadir: A Radiomics Approach to Computer-Aided Diagnosis with Cardiac Cine-MRI
+| 16:45 - 17:00| Jelmer M. Wolterink, Tim Leiner, Max A. Viergever, Ivana Isgum: Automatic Segmentation and Disease Classification Using Cardiac Cine MR Images
+| 17:00 - 17:15| Mahendra Khened, Varghese Alex, Ganapathy Krishnamurthi: Densely Connected Fully Convolutional Network for Short-Axis Cardiac Cine MR Image Segmentation and Heart Diagnosis using,Random Forest
+| 17:15 - 17:30| Clement Zotti, Zhiming Luo, Olivier HUMBERT, Alain Lalande, Pierre-Marc Jodoin: GridNet with automatic shape prior registration for automatic MRI cardiac segmentation
+| 17:30 - 17:45| Marc-Michel Rohe, Maxime Sermesant and Xavier Pennec: Automatic Multi-Atlas Segmentation of Myocardium with SVF-Net
+| 17:45 - 18:00| Pierre-Marc Jodoin - Overall results and wrap up of ACDC challenge
+| 18:00-18:15 | **Prizes, Final remarks and Adjourn**
+
